@@ -1,4 +1,4 @@
-# Genealogical Record Census Disambiguator
+# Genealogical Record Research
 
 Analyzes historical parish registers, census transcripts, and archived land deeds to reconcile conflicting dates, locations, and lineage branches across family records. Use when the user wants genealogy conflict resolution, census household matching, parish register analysis, same-name disambiguation, lineage branch reconciliation, or "are these the same person." Typical triggers include messy family trees, conflicting DOBs/places, and deed/census crosswalks.
 
